@@ -1,6 +1,7 @@
 # USGBC-Aligned Resilient Rebuilding Guide
 
 An interactive post-fire rebuilding and community-resilience guide aligned with USGBC green building principles and developed for the Altadena recovery effort.
+Live Website: https://digitaltwinshub2025.github.io/USGBC/
 
 ## Features
 
